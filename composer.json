@@ -1,0 +1,32 @@
+{
+  "name": "fjbzzz/customPack",
+  "description": "TestCustomPack",
+  "keywords": ["url","csv"],
+  "homepages": "http://www.baidu.com",
+  "license": "1.0",
+  "authors": [
+    {
+      "name":"fjb",
+      "homepage":"http://www.baidu.com",
+      "role":"phper"
+    }
+  ],
+  "support":{
+    "email":"asmallhouse@126.com"
+  },
+  "require":{
+    "php":">=7.2.0",
+    "guzzlehttp/guzzle":"~5.0"
+  },
+  "require-dev":{
+    "phpunit/phpunit":"~4.3"
+  },
+  "suggest":{
+    "league/csv":"~6.0"
+  },
+  "autoload":{
+    "psr-4":{
+      "Fjb\\CustomPack\\":"src/"
+    }
+  }
+}
