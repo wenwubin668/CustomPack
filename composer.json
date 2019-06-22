@@ -3,7 +3,7 @@
   "description": "TestCustomPack",
   "keywords": ["url","csv"],
   "homepages": "http://www.baidu.com",
-  "license": "1.0",
+  "license": "proprietary",
   "authors": [
     {
       "name":"fjb",
