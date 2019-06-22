@@ -5,7 +5,7 @@
  * Date: 2019/6/22
  * Time: 9:41 PM
  */
-namespace Fjb\CustomPack\Url;
+namespace CustomPack\Url;
 
 use GuzzleHttp\Client;
 
